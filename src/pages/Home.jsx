@@ -4,6 +4,7 @@ import Info from "../components/Info.jsx/Info";
 import HeroBanner from "../components/HeroBanner/HeroBanner";
 
 const Home = () => {
+  
   return (
     <>
       <Container fluid className="hero-section">
